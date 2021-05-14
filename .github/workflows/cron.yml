@@ -1,4 +1,4 @@
-name: update_cron
+name: update_cron.
 on:
   push:
     branches: [ main ]
@@ -12,7 +12,7 @@ jobs:
     steps:
     
       # 1. 更新时区
-      - name: Setup timeZone
+      - name: Setup timezone
         uses: zcong1993/setup-timezone@master
         with:
           timezone: Asia/Shanghai

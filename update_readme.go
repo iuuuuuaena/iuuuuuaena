@@ -28,7 +28,7 @@ func main() {
 		if i != 1 && i%9 == 1 {
 			channel.WriteString(util.WriteSelectItem1(strconv.Itoa(i)+" ~ "+strconv.Itoa((i / 10+1)*10)) + "\n")
 		}
-		channel.WriteString(strconv.Itoa(i + 1)   + ". " + rankingList.Data.List[i].Title + "[:link:](" + rankingList.Data.List[i].ShortLink + ")\n")
+		channel.WriteString(strconv.Itoa(i + 1)   + ". " + rankingList.Data.List[i].Title + "[:link:](" + rankingList.Data.List[i].ShortLink + ")<br>\n")
 		if i != 0 && i != 9 && i%9 == 0 {
 			channel.WriteString(util.WriteSelectItem2() + "<br>\n")
 		}

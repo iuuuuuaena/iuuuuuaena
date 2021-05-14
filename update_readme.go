@@ -36,9 +36,9 @@ func main() {
 	// 确保写入到磁盘
 	err := channel.Sync()
 	util.DropErr(err)
-
 }
 
+// 请求获取 列表
 func getRankingList(url string) *entity.ResObj {
 	get := util.Get(entity.Url)
 	// 2. 解析返回的json

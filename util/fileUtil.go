@@ -45,7 +45,6 @@ os.O_APPEND: append 追加新数据到文件
 func OpenFileChannel(fileName string, flag int, perm uint32) *os.File {
 	file, err := os.OpenFile(fileName, flag, fs.FileMode(perm))
 	DropErr(err)
-
 	return file
 }
 

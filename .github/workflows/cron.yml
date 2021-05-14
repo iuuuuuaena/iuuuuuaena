@@ -17,7 +17,7 @@ jobs:
         with:
           timezone: Asia/Shanghai
       # 2. 拉取分支
-      - name: actions/checkout@master
+      - uses: actions/checkout@master
         with: 
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
@@ -25,7 +25,7 @@ jobs:
       # 3. 安装golang环境
       - uses: actions/setup-go@v1
         with:
-          go-version: '1.16.3' # The Go version to download (if necessary) and use.
+          go-version: '1.16' # The Go version to download (if necessary) and use.
 
       # 4. 更新下载go mod
       - run: go mod download

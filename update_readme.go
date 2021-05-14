@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"github.com/iuuuuuaena/entity"
 	"github.com/iuuuuuaena/util"
 	"os"
@@ -21,21 +20,15 @@ func main() {
 	entity.FileName = "README.md"
 	// 4.清空文件
 	util.EmptyFile(entity.FileName)
-	// 5. 遍历输出 av 号码
-	for i := 1; i < len(rankingList.Data.List); i++ {
-		fmt.Printf("%d\n", rankingList.Data.List[i].Aid)
-	}
 	// 6. 获取文件 channel，可以持续写入
 	channel := util.OpenFileChannel(entity.FileName, os.O_APPEND|os.O_WRONLY, 0664)
 	defer channel.Close()
 	// 写入 文件
 	for i := 0; i < len(rankingList.Data.List); i++ {
 		if i != 1 && i%9 == 1 {
-			channel.WriteString(util.WriteSelectItem1(strconv.Itoa(i)+" ~ "+strconv.Itoa((i / 10+1)*10)) + "<br>\n")
+			channel.WriteString(util.WriteSelectItem1(strconv.Itoa(i)+" ~ "+strconv.Itoa((i / 10+1)*10)) + "\n")
 		}
-
-		channel.WriteString(strconv.Itoa(i + 1)   + ". [" + rankingList.Data.List[i].Title + "](" + rankingList.Data.List[i].ShortLink + ")<br>\n")
-
+		channel.WriteString(strconv.Itoa(i + 1)   + ". " + rankingList.Data.List[i].Title + "[:link:](" + rankingList.Data.List[i].ShortLink + ")\n")
 		if i != 0 && i != 9 && i%9 == 0 {
 			channel.WriteString(util.WriteSelectItem2() + "<br>\n")
 		}

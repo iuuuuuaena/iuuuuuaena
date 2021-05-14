@@ -36,6 +36,7 @@ func main() {
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
 </div>`)
+	channel.WriteString("\n\n[![](https://img.shields.io/badge/jxd-@jxdgogogo.xyz-yellowgreen.svg)](https://www.jxdgogogo.xyz)<br>\n")
 	// 写入 文件
 	for i := 0; i < len(rankingList.Data.List); i++ {
 		if i != 1 && i%9 == 1 {

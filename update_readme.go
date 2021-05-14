@@ -35,13 +35,13 @@ func main() {
 <a  style="float:right;width:45%" href = "https://github.com/anuraghazra/github-readme-stats">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
-</div> \n`)
+</div>`)
 	// 写入 文件
 	for i := 0; i < len(rankingList.Data.List); i++ {
 		if i != 1 && i%9 == 1 {
 			channel.WriteString(util.WriteSelectItem1(strconv.Itoa(i)+" ~ "+strconv.Itoa((i / 10+1)*10)) + "\n")
 		}
-		channel.WriteString("> "+strconv.Itoa(i + 1)   + ". " + rankingList.Data.List[i].Title + " [:link:](//www.bilibili.com/video/" + rankingList.Data.List[i].Bvid + ") <br>\n")
+		channel.WriteString(strconv.Itoa(i + 1)   + ". " + rankingList.Data.List[i].Title + " [:link:](//www.bilibili.com/video/" + rankingList.Data.List[i].Bvid + ") <br>\n")
 		if i != 0 && i != 9 && i%9 == 0 {
 			channel.WriteString(util.WriteSelectItem2() + "\n")
 		}

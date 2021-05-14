@@ -1,8 +1,8 @@
 <div >
-<a style="float:left;width:55%;" href = "https://github.com/anuraghazra/github-readme-stats">
+<a style="float:left;width:53%;" href = "https://github.com/anuraghazra/github-readme-stats">
    <img src = "https://github-readme-stats.vercel.app/api?username=iuuuuuaena&theme=buefy&show_icons=true"/>
 </a>
-<a  style="float:right;width:45%" href = "https://github.com/anuraghazra/github-readme-stats">
+<a  style="float:right;width:47%" href = "https://github.com/anuraghazra/github-readme-stats">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
 </div>1. 传说中的天津味女仆咖啡店被我找到了!没想到服务巨好! [:link:](//www.bilibili.com/video/BV1uo4y1m7CA) <br>

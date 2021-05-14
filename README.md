@@ -1,9 +1,9 @@
 <div >
-<a style="float:left;width:51%;" href = "https://github.com/anuraghazra/github-readme-stats">
-   <img  style="height:180px" src = "https://github-readme-stats.vercel.app/api?username=iuuuuuaena&theme=buefy&show_icons=true"/>
+<a style="float:left;width:55%;" href = "https://github.com/anuraghazra/github-readme-stats">
+   <img src = "https://github-readme-stats.vercel.app/api?username=iuuuuuaena&theme=buefy&show_icons=true"/>
 </a>
-<a  style="float:right;width:49%" href = "https://github.com/anuraghazra/github-readme-stats">
-   <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<a  style="float:right;width:45%" href = "https://github.com/anuraghazra/github-readme-stats">
+   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </a>
 </div>1. 传说中的天津味女仆咖啡店被我找到了!没想到服务巨好! [:link:](//www.bilibili.com/video/BV1uo4y1m7CA) <br>
 2. 来来来，看谁能顶住这锅《 肉 的 诱 惑 》 [:link:](//www.bilibili.com/video/BV1264y1C77X) <br>

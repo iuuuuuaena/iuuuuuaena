@@ -36,7 +36,7 @@ jobs:
       # 3. 安装golang环境
       - uses: actions/setup-go@v1
         with:
-          go-version: '1.16' # The Go version to download (if necessary) and use.
+          go-version: '1.16.3' # The Go version to download (if necessary) and use.
 
       # 4. 更新下载go mod
       - run: go mod download
@@ -46,7 +46,7 @@ jobs:
       - name: Commit file
         run: |
           git add README.md
-          git config --local user.email "waniiu@126.com"
+          git config --local user.email "2291146413@qq.com"
           git config --local user.name "jxd"
           git commit --allow-empty -m "Update news on $(date)" -a
       # 7. push

@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuuuuuaena&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 1. 传说中的天津味女仆咖啡店被我找到了!没想到服务巨好! [:link:](//www.bilibili.com/video/BV1uo4y1m7CA) <br>
 2. 来来来，看谁能顶住这锅《 肉 的 诱 惑 》 [:link:](//www.bilibili.com/video/BV1264y1C77X) <br>
 3. 【亮记生物鉴定】网络热传生物鉴定29 [:link:](//www.bilibili.com/video/BV1f64y1C715) <br>

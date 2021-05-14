@@ -23,6 +23,11 @@ func main() {
 	// 6. 获取文件 channel，可以持续写入
 	channel := util.OpenFileChannel(entity.FileName, os.O_APPEND|os.O_WRONLY, 0664)
 	defer channel.Close()
+	// 6.5 引入这个开源 项目
+	//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+	theme := "buefy"
+	username := "iuuuuuaena"
+	channel.WriteString("[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username="+username+"&theme="+theme+"&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)\n")
 	// 写入 文件
 	for i := 0; i < len(rankingList.Data.List); i++ {
 		if i != 1 && i%9 == 1 {

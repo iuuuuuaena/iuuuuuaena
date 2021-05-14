@@ -30,19 +30,16 @@ func main() {
 	defer channel.Close()
 	// 写入 文件
 	for i := 0; i < len(rankingList.Data.List); i++ {
-		if i != 1 && i%10 == 1 {
+		if i != 1 && i%9 == 1 {
 			channel.WriteString(util.WriteSelectItem1(strconv.Itoa(i)+" ~ "+strconv.Itoa((i / 10+1)*10)) + "<br>\n")
 		}
 
-		channel.WriteString("[" + rankingList.Data.List[i].Title + "](" + rankingList.Data.List[i].ShortLink + ")<br>\n")
+		channel.WriteString(strconv.Itoa(i + 1)   + ". [" + rankingList.Data.List[i].Title + "](" + rankingList.Data.List[i].ShortLink + ")<br>\n")
 
-		if i != 0 && i != 10 && i%10 == 0 {
+		if i != 0 && i != 9 && i%9 == 0 {
 			channel.WriteString(util.WriteSelectItem2() + "<br>\n")
 		}
-		fmt.Printf("%d\n", rankingList.Data.List[i].Aid)
 	}
-	channel.WriteString(util.WriteSelectItem2() + "<br>\n")
-
 	// 确保写入到磁盘
 	err := channel.Sync()
 	util.DropErr(err)

@@ -37,7 +37,7 @@ jobs:
           git add README.md
           git config --local user.email "2291146413@qq.com"
           git config --local user.name "iuuuuuaena"
-          git commit --allow-empty -m "Update news on $(date)" -a
+          git commit --allow-empty -m ":trollface: Update news on $(date)" -a
       # 7. push
       - name: Push changes
         uses: ad-m/github-push-action@master

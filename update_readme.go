@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"github.com/iuuuuuaena/entity"
 	"github.com/iuuuuuaena/util"
 	"io/ioutil"
@@ -16,6 +17,7 @@ func init() {
 }
 
 func main() {
+	//util.Get2("http://www.baidu.com")
 	// 1. 访问排行榜 url
 	entity.Url = "https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all"
 	// 2. http请求获取 ranking List
@@ -34,10 +36,10 @@ func main() {
 	channel.WriteString(
 		`<div >
 	<a style="float:left;width:55%;" href = "https://github.com/anuraghazra/github-readme-stats">
-	  <img src = "https://github-readme-stats.vercel.app/api?username=` + username + `&theme=` + theme + `&show_icons=true"/>
+	 <img src = "https://github-readme-stats.vercel.app/api?username=` + username + `&theme=` + theme + `&show_icons=true"/>
 	</a>
 	<a  style="float:right;width:45%" href = "https://github.com/anuraghazra/github-readme-stats">
-	  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+	 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 	</a>
 	</div>`)
 	channel.WriteString("\n\n[![](https://img.shields.io/badge/jxd-@jxdgogogo.xyz-yellowgreen.svg)](https://www.jxdgogogo.xyz)<br>\n")
@@ -107,5 +109,18 @@ func loginAndSignIn() {
 	req.Header.Set("authorization", "Bearer "+unmarshal2.Token)
 	req.Header.Set("sec-ch-ua", "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\", \"Google Chrome\";v=\"90\"")
 	defer form.Body.Close()
-	_, err = client.Do(req)
+	res2, err := client.Do(req)
+	defer res2.Body.Close()
+	all, err := ioutil.ReadAll(res2.Body)
+	//fmt.Println("签到获得积分："+string(all))
+
+	// 使用 QMSG 酱 发送qq消息 提示成功
+	qUrl := "https://qmsg.zendee.cn/send/"
+	token := "27d00079e5bc89df4228f0a4f90eba03"
+	// 用 qUrl + token + get参数 msg 就可以发送消息了
+	s := strings.Replace(string(all), "\"", "", -1 )
+	xx := qUrl + token + fmt.Sprintf( "?msg=todayScore:%s",s)
+	fmt.Println(xx)
+	util.Get2(xx)
+
 }

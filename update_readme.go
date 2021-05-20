@@ -46,7 +46,7 @@ func main() {
 	// 写入 文件
 	for i := 0; i < len(rankingList.Data.List); i++ {
 		if i != 1 && i%9 == 1 {
-			channel.WriteString(util.WriteSelectItem1(strconv.Itoa(i)+" ~ "+strconv.Itoa((i/10+1)*10)) + "\n")
+			channel.WriteString(util.WriteSelectItem1(strconv.Itoa(i)+" ~ "+strconv.Itoa((i/10+1)*10)) + "\n\n")
 		}
 		channel.WriteString(strconv.Itoa(i+1) + ". " + rankingList.Data.List[i].Title + " [:link:](//www.bilibili.com/video/" + rankingList.Data.List[i].Bvid + ") <br>\n")
 		if i != 0 && i != 9 && i%9 == 0 {
@@ -114,13 +114,16 @@ func loginAndSignIn() {
 	all, err := ioutil.ReadAll(res2.Body)
 	//fmt.Println("签到获得积分："+string(all))
 
+
 	// 使用 QMSG 酱 发送qq消息 提示成功
 	qUrl := "https://qmsg.zendee.cn/send/"
 	token := "27d00079e5bc89df4228f0a4f90eba03"
 	// 用 qUrl + token + get参数 msg 就可以发送消息了
-	s := strings.Replace(string(all), "\"", "", -1 )
-	xx := qUrl + token + fmt.Sprintf( "?msg=todayScore:%s",s)
+
+	scores  := strings.Replace(string(all), "\"", "", -1)
+	xx := qUrl + token + fmt.Sprintf("?msg=gotit")
 	fmt.Println(xx)
-	util.Get2(xx)
+	// 发请求通知qq成功，带上scores
+	util.Get2(xx + scores)
 
 }

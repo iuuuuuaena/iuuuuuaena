@@ -37,15 +37,16 @@ func Get(url string) string {
 	return result.String()
 }
 
-func Get2(url string) {
+func Get2(url string) []byte{
 	resp, err := http.Get(url)
 	DropErr(err)
 	defer resp.Body.Close()
 	if err != nil {
 		panic(err)
 	}
-	//all, err := ioutil.ReadAll(resp.Body)
+	all, err := ioutil.ReadAll(resp.Body)
 	//fmt.Println(string(all))
+	return all
 }
 
 func Get3(url string) {

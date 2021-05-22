@@ -17,7 +17,6 @@ func init() {
 }
 
 func main() {
-	/*
 	//util.Get2("http://www.baidu.com")
 	// 1. 访问排行榜 url
 	entity.Url = "https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all"
@@ -58,8 +57,6 @@ func main() {
 	err := channel.Sync()
 	util.DropErr(err)
 	// 登录 并签到
-	*/
-
 	//loginAndSignIn()
 }
 

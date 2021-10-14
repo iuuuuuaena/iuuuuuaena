@@ -8,143 +8,143 @@
 	</div>
 
 [![](https://img.shields.io/badge/jxd-@jxdgogogo.xyz-yellowgreen.svg)](https://www.jxdgogogo.xyz)<br>
-1. 说出来你们可能不信，我差点被这个小姑娘难住了 [:link:](//www.bilibili.com/video/BV1934y1U7k8) <br>
-2. 论：如何把土豆，做成吃不起的样子 [:link:](//www.bilibili.com/video/BV1uh411n75G) <br>
-3. 【贺峻霖】毫无难度！接着奏乐接着“戴桶”舞！——运动少年特辑 [:link:](//www.bilibili.com/video/BV1SP4y1b78E) <br>
-4. 我老婆的表白 [:link:](//www.bilibili.com/video/BV1hQ4y1B7Pr) <br>
-5. 回国的时候客串朋友的一个小短片，跟大家分享。 [:link:](//www.bilibili.com/video/BV1Aq4y157EA) <br>
-6. 让美食up主决定我一日三餐吃什么，小伙一天跑400公里都吃了啥 [:link:](//www.bilibili.com/video/BV1mQ4y1B7HQ) <br>
-7. 周末回家不带媳妇的后果 [:link:](//www.bilibili.com/video/BV1yU4y1w7Jr) <br>
-8. 【3D自制】来自3000万年前的迪迦童年珍贵片段 [:link:](//www.bilibili.com/video/BV1Wf4y1g7SY) <br>
-9. 如果30年前哈利波特玩了手游。。。 [:link:](//www.bilibili.com/video/BV1L34y1S7W3) <br>
-10. 【原神生日会】外 乡 人 2 [:link:](//www.bilibili.com/video/BV1cT4y1o7BX) <br>
+1. 论：如何把土豆，做成吃不起的样子 [:link:](//www.bilibili.com/video/BV1uh411n75G) <br>
+2. 说出来你们可能不信，我差点被这个小姑娘难住了 [:link:](//www.bilibili.com/video/BV1934y1U7k8) <br>
+3. 【3D自制】来自3000万年前的迪迦童年珍贵片段 [:link:](//www.bilibili.com/video/BV1Wf4y1g7SY) <br>
+4. 让美食up主决定我一日三餐吃什么，小伙一天跑400公里都吃了啥 [:link:](//www.bilibili.com/video/BV1mQ4y1B7HQ) <br>
+5. 【猫和老鼠】刀剑如梦 [:link:](//www.bilibili.com/video/BV1hL4y167Ep) <br>
+6. 第二部5+5=9 [:link:](//www.bilibili.com/video/BV1oL41137tf) <br>
+7. 这要是火了，我就跳给皇上看！【逍遥】原创编舞 [:link:](//www.bilibili.com/video/BV12q4y1V7u9) <br>
+8. 【围炉夜话】为何我们如此贫穷？不只是缺钱那么简单。 [:link:](//www.bilibili.com/video/BV1XL41137zh) <br>
+9. 民警帮大爷找牛，结果大爷的“废话文学”把民警整崩溃了…… [:link:](//www.bilibili.com/video/BV1Cf4y1c7mG) <br>
+10. 2021第二季沙雕新闻盘点！反转反转再反转，套路套路反套路 [:link:](//www.bilibili.com/video/BV16Q4y1B7B8) <br>
 <details>
 <summary>10 ~ 20</summary>
 
-11. 极限暴力摧残后，德系、日系、美系车谁能幸存？ [:link:](//www.bilibili.com/video/BV1nq4y1V7ZU) <br>
-12. 当一个黑客发现你的密码时...... [:link:](//www.bilibili.com/video/BV1Lh411J7jS) <br>
-13. 【周傳雄】第一次在沙灘的黃昏唱《黃昏》，夕陽太美好了！ [:link:](//www.bilibili.com/video/BV1pq4y1V7Fw) <br>
-14. 【围炉夜话】为何我们如此贫穷？不只是缺钱那么简单。 [:link:](//www.bilibili.com/video/BV1XL41137zh) <br>
-15. 我 的 世 界 极 速 版 [:link:](//www.bilibili.com/video/BV1x44y1t7HU) <br>
-16. 2021第二季沙雕新闻盘点！反转反转再反转，套路套路反套路 [:link:](//www.bilibili.com/video/BV16Q4y1B7B8) <br>
-17. 这要是火了，我就跳给皇上看！【逍遥】原创编舞 [:link:](//www.bilibili.com/video/BV12q4y1V7u9) <br>
-18. 【医学博士】总是手痒抠痘痘怎么办 I 痘印该如何修复？ [:link:](//www.bilibili.com/video/BV1PT4y1o7P5) <br>
-19. 古法制墨（全集） [:link:](//www.bilibili.com/video/BV1w34y1m7D2) <br>
+11. 6元一只！南方街头爆辣小吃，嘴唇直接被辣肿，流汗如洗澡... [:link:](//www.bilibili.com/video/BV1hq4y1d7Eu) <br>
+12. 古法制墨（全集） [:link:](//www.bilibili.com/video/BV1w34y1m7D2) <br>
+13. 【时代少年团】全 员 鬼 畜 ——运动少年特辑 [:link:](//www.bilibili.com/video/BV15b4y117By) <br>
+14. 三句话，让医院的护士和我结了婚 [:link:](//www.bilibili.com/video/BV1J34y1S7Xq) <br>
+15. 这才是文化膨胀！！当岩彩画遇上汉服 [:link:](//www.bilibili.com/video/BV14U4y1w7fn) <br>
+16. 格局打开！李幼斌谈“不男不女”审美、“饭圈”等追星乱象 [:link:](//www.bilibili.com/video/BV13Q4y1D785) <br>
+17. 极限暴力摧残后，德系、日系、美系车谁能幸存？ [:link:](//www.bilibili.com/video/BV1nq4y1V7ZU) <br>
+18. 2021年10月12日，分享一首歌。 [:link:](//www.bilibili.com/video/BV1sL4y16711) <br>
+19. 【建议收藏】最近频繁出现的Win10/11 网络断连，无网络原因及解决方法 [:link:](//www.bilibili.com/video/BV1v44y1x7zM) <br>
 </details>
 <details>
 <summary>19 ~ 20</summary>
 
-20. 【STN快报第六季4】玩了孤岛惊魂6，我终于知道自己该怎么去美国啦！ [:link:](//www.bilibili.com/video/BV1eR4y1H74w) <br>
-21. 靠谱盘点138：塔塔开！阿乐入围赛爆杀全胜晋级，DFM打入小组赛创造历史，阿P：又是我倒霉！ [:link:](//www.bilibili.com/video/BV1GQ4y1D7ai) <br>
-22. 【猫和老鼠】刀剑如梦 [:link:](//www.bilibili.com/video/BV1hL4y167Ep) <br>
-23. 民警帮大爷找牛，结果大爷的“废话文学”把民警整崩溃了…… [:link:](//www.bilibili.com/video/BV1Cf4y1c7mG) <br>
-24. 【硬核】小型反推垂直回收火箭研发制造与发射 [:link:](//www.bilibili.com/video/BV14h411J72v) <br>
-25. 试吃热带奇特水果，为什么竟然一点都不好吃？！ [:link:](//www.bilibili.com/video/BV1mQ4y1X7pU) <br>
-26. 卡蜜拉初次变身合集 [:link:](//www.bilibili.com/video/BV1Lr4y127jV) <br>
-27. 6元一只！南方街头爆辣小吃，嘴唇直接被辣肿，流汗如洗澡... [:link:](//www.bilibili.com/video/BV1hq4y1d7Eu) <br>
-28. 格局打开！李幼斌谈“不男不女”审美、“饭圈”等追星乱象 [:link:](//www.bilibili.com/video/BV13Q4y1D785) <br>
+20. 《文艺复兴》 [:link:](//www.bilibili.com/video/BV1ET4y1o7Wy) <br>
+21. @宋冬野：吸毒艺人想复出，缉毒警察能复活嘛？ [:link:](//www.bilibili.com/video/BV1HT4y1o7q2) <br>
+22. 我老婆的表白 [:link:](//www.bilibili.com/video/BV1hQ4y1B7Pr) <br>
+23. 【谭谈人生】谭sir又上岗 [:link:](//www.bilibili.com/video/BV173411C7LV) <br>
+24. B站up主面试字节跳动有感 [:link:](//www.bilibili.com/video/BV1ET4y1o7Mk) <br>
+25. 海南热带雨林国家公园：我看得懂，并且我大受震撼。 [:link:](//www.bilibili.com/video/BV1sL4y1678W) <br>
+26. 试吃热带奇特水果，为什么竟然一点都不好吃？！ [:link:](//www.bilibili.com/video/BV1mQ4y1X7pU) <br>
+27. 匪个锤子，摇起来了！ [:link:](//www.bilibili.com/video/BV1cr4y1m7Pe) <br>
+28. 【时代少年团】B站独家探班来啦！练习室PK会上瘾！——运动少年特辑 [:link:](//www.bilibili.com/video/BV1LU4y1F7tk) <br>
 </details>
 <details>
 <summary>28 ~ 30</summary>
 
-29. 《明日方舟》全新故事「红松林」活动宣传PV [:link:](//www.bilibili.com/video/BV1Yf4y1c7o5) <br>
-30. ⚡巨婴游客恶臭行为大赏：醉酒女丽江古城跳水井洗澡，大喊：好爽啊！ [:link:](//www.bilibili.com/video/BV1Yv411g7Zf) <br>
-31. 【睡前消息338】房地产退潮之后，中国什么最贵？ [:link:](//www.bilibili.com/video/BV19u411Z7au) <br>
-32. 用魔鬼辣椒做15斤的波龙海鲜大咖！波龙直接夹我一下 [:link:](//www.bilibili.com/video/BV16P4y1t7Ec) <br>
-33. 南宁地铁 乐死我了 [:link:](//www.bilibili.com/video/BV1nT4y1f7dR) <br>
-34. 当你拥有可以「秒杀一切」的弓？！ [:link:](//www.bilibili.com/video/BV1V44y1t7ff) <br>
-35. B站up主面试字节跳动有感 [:link:](//www.bilibili.com/video/BV1ET4y1o7Mk) <br>
-36. 剥800只虾、耗26只蟹，做1碗江南地表最强面。 [:link:](//www.bilibili.com/video/BV11q4y1V7Pf) <br>
-37. 被律师函警告了，但这个知识付费的视频我绝对不删！ [:link:](//www.bilibili.com/video/BV1e3411177H) <br>
+29. 我不高 [:link:](//www.bilibili.com/video/BV1Gf4y1g7b1) <br>
+30. 《明日方舟》全新故事「红松林」活动宣传PV [:link:](//www.bilibili.com/video/BV1Yf4y1c7o5) <br>
+31. 用魔鬼辣椒做15斤的波龙海鲜大咖！波龙直接夹我一下 [:link:](//www.bilibili.com/video/BV16P4y1t7Ec) <br>
+32. 翻谁谁死！这种翻牌子太刺激了！国产古装大戏《琅琊榜》第二期 [:link:](//www.bilibili.com/video/BV1Qf4y177AD) <br>
+33. 被律师函警告了，但这个知识付费的视频我绝对不删！ [:link:](//www.bilibili.com/video/BV1e3411177H) <br>
+34. 《原神》EP - 放浪不羁之客 [:link:](//www.bilibili.com/video/BV1wq4y157oC) <br>
+35. 老弟总是输的原因找到了 [:link:](//www.bilibili.com/video/BV1ku411Z72B) <br>
+36. 狐主任现场鉴定海南热带雨林里的特有物种！ [:link:](//www.bilibili.com/video/BV1kQ4y1X7tV) <br>
+37. 我们做了一个软件，专门对付山寨机 [:link:](//www.bilibili.com/video/BV1YL4y167Go) <br>
 </details>
 <details>
 <summary>37 ~ 40</summary>
 
-38. 在广东参加婚礼要注意什么？ [:link:](//www.bilibili.com/video/BV1Wh411J79Y) <br>
-39. 这才是文化膨胀！！当岩彩画遇上汉服 [:link:](//www.bilibili.com/video/BV14U4y1w7fn) <br>
-40. 花42元买3张肉饼，一口饼一口蒜，真香 [:link:](//www.bilibili.com/video/BV1qQ4y1X71u) <br>
-41. 【时代少年团】B站独家探班来啦！练习室PK会上瘾！——运动少年特辑 [:link:](//www.bilibili.com/video/BV1LU4y1F7tk) <br>
-42. 【谭谈人生】谭sir又上岗 [:link:](//www.bilibili.com/video/BV173411C7LV) <br>
-43. 如何将骨灰做成钻石💎，愿所爱之人离去后依然能继续闪耀~ [:link:](//www.bilibili.com/video/BV19T4y1Z77f) <br>
-44. 美国医生：这是17世纪的麻药！（挥棒 [:link:](//www.bilibili.com/video/BV1m3411C7if) <br>
-45. 我终于吃到大盘盘麻辣烫了,抱着盘子太过瘾!还遇到好多可爱的美少女~美食探店 [:link:](//www.bilibili.com/video/BV1MQ4y1X7aJ) <br>
-46. 美团若让人无路可选，国家必令其无路可走 [:link:](//www.bilibili.com/video/BV1VQ4y1B7kD) <br>
+38. 如果30年前哈利波特玩了手游。。。 [:link:](//www.bilibili.com/video/BV1L34y1S7W3) <br>
+39. 在家做焖饭的n种方法，手残党也可以做好！ [:link:](//www.bilibili.com/video/BV16u411Z7Pj) <br>
+40. 海岛生活简简单单，随便整点龙虾和鲍鱼，珊瑚玉当烤炉 [:link:](//www.bilibili.com/video/BV1Uf4y177Tt) <br>
+41. 当一个黑客发现你的密码时...... [:link:](//www.bilibili.com/video/BV1Lh411J7jS) <br>
+42. 不要给耳机取奇怪的名字啊啊啊！！ [:link:](//www.bilibili.com/video/BV1x34y1S7yj) <br>
+43. 我是铠之巨人 这是我弟弟超大型巨人！！！ [:link:](//www.bilibili.com/video/BV1ff4y177nb) <br>
+44. 吴京又被逼捐，《长津湖》在吃人血馒头？键盘侠在杀死中国电影【洞察社会系列53】 [:link:](//www.bilibili.com/video/BV1WT4y1o7Lr) <br>
+45. 《心海！带我走吧！》 [:link:](//www.bilibili.com/video/BV1eQ4y1D7yi) <br>
+46. 被质疑“乌鱼汤”加奶？一镜到底带大家目睹鱼汤变白全过程 [:link:](//www.bilibili.com/video/BV1Hq4y157T8) <br>
 </details>
 <details>
 <summary>46 ~ 50</summary>
 
-47. 【小高姐】葱油酥饼 [:link:](//www.bilibili.com/video/BV1cT4y1o7fs) <br>
-48. 什 么 时 候 结 婚？【读评论#1】 [:link:](//www.bilibili.com/video/BV1tP4y1t7r4) <br>
-49. 土木工程，这两个月来的变化。22岁直接看着像42岁 [:link:](//www.bilibili.com/video/BV1Tb4y1Y7Ha) <br>
-50. LOL手游这样设置开局就领先了！ [:link:](//www.bilibili.com/video/BV1BQ4y1X7HD) <br>
-51. 外卖...已经...无所谓了...《最 骚 营 销 号 22》 [:link:](//www.bilibili.com/video/BV1gQ4y1D79F) <br>
-52. 《文艺复兴》 [:link:](//www.bilibili.com/video/BV1ET4y1o7Wy) <br>
-53. 厨师长教你：家常“炸茄盒”的3种口味，简单易学，值得收藏 [:link:](//www.bilibili.com/video/BV1df4y177NB) <br>
-54. 最硬核的自制芦荟汁 [:link:](//www.bilibili.com/video/BV18P4y1t7JT) <br>
-55. 改名后，再也不会有人骂我了吧...... [:link:](//www.bilibili.com/video/BV1Av41137wN) <br>
+47. LOL手游最骚套路！混元霹雳功盲仔！【罗汉鬼套路】 [:link:](//www.bilibili.com/video/BV1dh411J7A7) <br>
+48. 86版西游记新皮肤CG正片——高能来袭！用王者荣耀打开西游记！ [:link:](//www.bilibili.com/video/BV1vR4y1H754) <br>
+49. 改名后，再也不会有人骂我了吧...... [:link:](//www.bilibili.com/video/BV1Av41137wN) <br>
+50. 【原神】2.2版本鹤观地区 宝箱全收集！（持续更新中） [:link:](//www.bilibili.com/video/BV19R4y1E7bJ) <br>
+51. 好闺蜜啊！你在我男人面前玩变装？ [:link:](//www.bilibili.com/video/BV1bq4y1571j) <br>
+52. 解析showmaker征服者长剑妖姬的秘密 兵线理解才是克制加里奥的关键 [:link:](//www.bilibili.com/video/BV1kh411J7N7) <br>
+53. 【啊粥】人民的名义：李达康如何奇袭高育良？ [:link:](//www.bilibili.com/video/BV1444y1x7sa) <br>
+54. 成都农村小哥欠200万巨款，靠卖毛肚火锅还清，6毛一斤卖到68一斤，太励志了 [:link:](//www.bilibili.com/video/BV1VT4y1o77Z) <br>
+55. 力压《长津湖》，豆瓣9.1，抗美援朝题材神作《功勋》究竟好在哪里？【毒舌的南瓜】 [:link:](//www.bilibili.com/video/BV1z44y1x7tP) <br>
 </details>
 <details>
 <summary>55 ~ 60</summary>
 
-56. 我们做了一个软件，专门对付山寨机 [:link:](//www.bilibili.com/video/BV1YL4y167Go) <br>
-57. 每个成功的男人背后都有一个默默付出的女人 [:link:](//www.bilibili.com/video/BV1cL411x7wj) <br>
-58. 这鞋子还能用来落地水？ [:link:](//www.bilibili.com/video/BV1Rq4y1R7t3) <br>
-59. “尊严，是打出来的！”全程核能！！！ [:link:](//www.bilibili.com/video/BV1kq4y1V7WR) <br>
-60. 不要给耳机取奇怪的名字啊啊啊！！ [:link:](//www.bilibili.com/video/BV1x34y1S7yj) <br>
-61. 不愧是上海，在大街上都能偶遇UP主（一猩期#9） [:link:](//www.bilibili.com/video/BV1ir4y127NG) <br>
-62. 我是铠之巨人 这是我弟弟超大型巨人！！！ [:link:](//www.bilibili.com/video/BV1ff4y177nb) <br>
-63. “策划看了我的守约也得哭” 2.0 [:link:](//www.bilibili.com/video/BV1PL411G7VC) <br>
-64. 沃夫冈 美食探店¥37？？ [:link:](//www.bilibili.com/video/BV1744y1x7PK) <br>
+56. 百人海王？一线引退？相亲相到一半突然爆黑料可太刺激了！【阅片无数Ⅱ 22】 [:link:](//www.bilibili.com/video/BV1uT4y1o7ww) <br>
+57. 【睡前消息338】房地产退潮之后，中国什么最贵？ [:link:](//www.bilibili.com/video/BV19u411Z7au) <br>
+58. 同时触发一百个老鼠夹会发生什么？ [:link:](//www.bilibili.com/video/BV1Zr4y127ry) <br>
+59. 后续，关于我和我前男友成为对门后的第二次社死 [:link:](//www.bilibili.com/video/BV1pf4y1g76a) <br>
+60. “把没挂的T了“ [:link:](//www.bilibili.com/video/BV1eR4y1H7Gs) <br>
+61. 这个世界上有两种人，一种人是正常人，还有你这种人 [:link:](//www.bilibili.com/video/BV1tT4y1o7Y1) <br>
+62. LOL手游这样设置开局就领先了！ [:link:](//www.bilibili.com/video/BV1BQ4y1X7HD) <br>
+63. 靠谱盘点138：塔塔开！阿乐入围赛爆杀全胜晋级，DFM打入小组赛创造历史，阿P：又是我倒霉！ [:link:](//www.bilibili.com/video/BV1GQ4y1D7ai) <br>
+64. 【半佛】酒店的卫生问题，是一种必然。 [:link:](//www.bilibili.com/video/BV1Fh411n7YD) <br>
 </details>
 <details>
 <summary>64 ~ 70</summary>
 
-65. 精彩！阴诡地狱里搅弄风云，烧牌子比翻牌子爽多了！国产古装大戏《琅琊榜》第二期 [:link:](//www.bilibili.com/video/BV1Qf4y177AD) <br>
-66. 随机挑战迷路版！居然随机到不能拍摄的地方… [:link:](//www.bilibili.com/video/BV1sg411F7aP) <br>
-67. 如何把长长长长长的表格打印到一张纸上？这招你一定要学会！ [:link:](//www.bilibili.com/video/BV1LU4y1w7FU) <br>
-68. 【自制】我造了一台 钢 铁 侠 的 机 械 臂 ！【硬核】 [:link:](//www.bilibili.com/video/BV12341117rG) <br>
-69. 海岛生活简简单单，随便整点龙虾和鲍鱼，珊瑚玉当烤炉 [:link:](//www.bilibili.com/video/BV1Uf4y177Tt) <br>
-70. 笑死，用BUG通关鱿鱼游戏？主办人都懵了！！！ [:link:](//www.bilibili.com/video/BV1Y44y1t7ri) <br>
-71. 《 极 限 拉 扯 》 [:link:](//www.bilibili.com/video/BV1DQ4y1B7g4) <br>
-72. 砸十亿人民币就只开家牛肉拉面馆？【怎么这么值ep29-陈香贵】 [:link:](//www.bilibili.com/video/BV1Yg411F79N) <br>
-73. 大海退潮后，大庆赶海发现大蛏王的呼吸孔，撒上盐咸的往外跑 [:link:](//www.bilibili.com/video/BV1jr4y127vU) <br>
+65. 吉他弹唱《明明就》 [:link:](//www.bilibili.com/video/BV1pP4y1t7wE) <br>
+66. 如何把长长长长长的表格打印到一张纸上？这招你一定要学会！ [:link:](//www.bilibili.com/video/BV1LU4y1w7FU) <br>
+67. 【周傳雄】第一次在沙灘的黃昏唱《黃昏》，夕陽太美好了！ [:link:](//www.bilibili.com/video/BV1pq4y1V7Fw) <br>
+68. 山海经最神秘的天帝，与炎黄齐名却又突然消失，中国神话体系完全解析【尧舜篇】上 [:link:](//www.bilibili.com/video/BV1Sr4y127p1) <br>
+69. 【罗翔】如何判断某案件是否是过失致人死亡罪？说实话，很难 [:link:](//www.bilibili.com/video/BV1kq4y1V7zG) <br>
+70. 💰 零 元 鸭 店 🦆 [:link:](//www.bilibili.com/video/BV1H3411C7U9) <br>
+71. 最硬核的自制芦荟汁 [:link:](//www.bilibili.com/video/BV18P4y1t7JT) <br>
+72. “策划看了我的守约也得哭” 2.0 [:link:](//www.bilibili.com/video/BV1PL411G7VC) <br>
+73. 生命居然是不公平的 [:link:](//www.bilibili.com/video/BV13Q4y1X7iJ) <br>
 </details>
 <details>
 <summary>73 ~ 80</summary>
 
-74. 好闺蜜啊！你在我男人面前玩变装？ [:link:](//www.bilibili.com/video/BV1bq4y1571j) <br>
-75. “把没挂的T了“ [:link:](//www.bilibili.com/video/BV1eR4y1H7Gs) <br>
-76. 英雄联盟舞蹈【大乱炖】 [:link:](//www.bilibili.com/video/BV1Nf4y177Tx) <br>
-77. 女同学来山东看我，女友已黑化 [:link:](//www.bilibili.com/video/BV1p341117je) <br>
-78. 【MC短片】我的世界：真正的和平模式 [:link:](//www.bilibili.com/video/BV1zQ4y1X7tn) <br>
-79. 学 枪 法 [:link:](//www.bilibili.com/video/BV19T4y1d7Uk) <br>
-80. 英雄联盟：用200秒致敬所有玩家！召唤师回来吧！不要抛弃他们！ [:link:](//www.bilibili.com/video/BV18v411g7dM) <br>
-81. 【建议收藏】最近频繁出现的Win10/11 网络断连，无网络原因及解决方法 [:link:](//www.bilibili.com/video/BV1v44y1x7zM) <br>
-82. 外公的长津湖 [:link:](//www.bilibili.com/video/BV1Yv411g7f4) <br>
+74. 每秒1G素材量！我们真的需要12K吗？URSA MINI PRO 12K评测 [:link:](//www.bilibili.com/video/BV1H34y1S7Bu) <br>
+75. 吃饭时间到，服务区38元自助餐随便吃，带劲 [:link:](//www.bilibili.com/video/BV1Ch411J7nX) <br>
+76. 大米里的黑色小虫子，是从哪里冒出来的？ [:link:](//www.bilibili.com/video/BV1uq4y157uH) <br>
+77. 英雄联盟：用200秒致敬所有玩家！召唤师回来吧！不要抛弃他们！ [:link:](//www.bilibili.com/video/BV18v411g7dM) <br>
+78. 泰迪对路人狂吠不止，半路杀出只猫咪对其一顿胖揍，网友直呼痛快 [:link:](//www.bilibili.com/video/BV1jL411G7y1) <br>
+79. 河南好大爷卖卤味，不尝不给卖，免费收徒管吃住，一年教会3000人 [:link:](//www.bilibili.com/video/BV1q44y1x7es) <br>
+80. ⚡巨婴游客恶臭行为大赏：醉酒女丽江古城跳水井洗澡，大喊：好爽啊！ [:link:](//www.bilibili.com/video/BV1Yv411g7Zf) <br>
+81. 【S11全球总决赛】小组赛 10月12日 T1 vs EDG [:link:](//www.bilibili.com/video/BV1xL411G7db) <br>
+82. 买了一箱蚊子回家，转眼就被家里猫吃完了！这就是生物灭蚊？ [:link:](//www.bilibili.com/video/BV1PL411G7fH) <br>
 </details>
 <details>
 <summary>82 ~ 90</summary>
 
-83. 点弦泛音高能！《江南》美爆的「指弹吉他」！林俊杰听了都想点赞！ [:link:](//www.bilibili.com/video/BV1rq4y1V7ht) <br>
-84. 东北神兽傻狍子到底有多少？ [:link:](//www.bilibili.com/video/BV16b4y1a7aq) <br>
-85. 【喵☆酱】原神一周年同人曲《听凭风引》 [:link:](//www.bilibili.com/video/BV1Nf4y177Gw) <br>
-86. 大结局来了. “我的室友才不会把我一个人留在寝室” [:link:](//www.bilibili.com/video/BV1J34111755) <br>
-87. 我的烘干机唱歌你听吗 [:link:](//www.bilibili.com/video/BV1U34y1U7m4) <br>
-88. 寻常的我们也可以 不 走 寻 常 路 [:link:](//www.bilibili.com/video/BV1hL4y1673J) <br>
-89. 【半佛】酒店的卫生问题，是一种必然。 [:link:](//www.bilibili.com/video/BV1Fh411n7YD) <br>
-90. 【C菌】这游戏难哭我了 打了一周boss战终于打过了 求个三连不过分吧！ [:link:](//www.bilibili.com/video/BV1NL411G75N) <br>
-91. 匪个锤子，摇起来了！ [:link:](//www.bilibili.com/video/BV1cr4y1m7Pe) <br>
+83. 【医学博士】总是手痒抠痘痘怎么办 I 痘印该如何修复？ [:link:](//www.bilibili.com/video/BV1PT4y1o7P5) <br>
+84. 【爷青回】陈奕迅《十年》最高音质版本！现象级神曲！ [:link:](//www.bilibili.com/video/BV1kf4y1778U) <br>
+85. 每个成功的男人背后都有一个默默付出的女人 [:link:](//www.bilibili.com/video/BV1cL411x7wj) <br>
+86. 苏畅园 厨子探店¥714 [:link:](//www.bilibili.com/video/BV1ab4y1Y7tT) <br>
+87. 《 极 限 拉 扯 》 [:link:](//www.bilibili.com/video/BV1DQ4y1B7g4) <br>
+88. 重 操 旧 业 [:link:](//www.bilibili.com/video/BV1YR4y1H7dQ) <br>
+89. 小板栗生气了，要打死几个马里奥才能开心 [:link:](//www.bilibili.com/video/BV1AT4y1o7Fy) <br>
+90. 印度士兵被俘照片泄露 巴基斯坦网友直呼过瘾 [:link:](//www.bilibili.com/video/BV1Nf4y1g7sF) <br>
+91. 试吃北海极品岩蚝，饱满多汁，独家蒜蓉酱烤，吃的根本停不下来 [:link:](//www.bilibili.com/video/BV1Cf4y177Qw) <br>
 </details>
 <details>
 <summary>91 ~ 100</summary>
 
-92. ⚡𝑯𝒂𝒓𝒓𝒚 𝑷𝒐𝒕𝒕𝒆𝒓 𝒊𝒔 𝒎𝒚 𝒅𝒂𝒅⚡ [:link:](//www.bilibili.com/video/BV12v411g7Ez) <br>
-93. 山海经最神秘的天帝，与炎黄齐名却又突然消失，中国神话体系完全解析【尧舜篇】上 [:link:](//www.bilibili.com/video/BV1Sr4y127p1) <br>
-94. @宋冬野：吸毒艺人想复出，缉毒警察能复活嘛？ [:link:](//www.bilibili.com/video/BV1HT4y1o7q2) <br>
-95. 鱿 鱼 游 戏 终 结 者 [:link:](//www.bilibili.com/video/BV12b4y1a7Au) <br>
-96. 米哈游能将经典回合制玩出什么花样？实力预测一波~ [:link:](//www.bilibili.com/video/BV1vQ4y1B7He) <br>
-97. 【怪兽档案】我所熟知，其名为人类的怪兽 [:link:](//www.bilibili.com/video/BV1z44y1x7vf) <br>
-98. 《心海！带我走吧！》 [:link:](//www.bilibili.com/video/BV1eQ4y1D7yi) <br>
-99. 【老师说】每天课后学习2小时也能成为学霸的秘诀是… [:link:](//www.bilibili.com/video/BV1Bv411g7gW) <br>
-100. 海地难民涌入美国-沿途各国黑帮形成第三产业链 [:link:](//www.bilibili.com/video/BV1gR4y1J7K1) <br>
+92. 我 的 世 界 极 速 版 [:link:](//www.bilibili.com/video/BV1x44y1t7HU) <br>
+93. 司马南：江苏宿迁卖掉全部公立医院，是一场灾难【医疗产业化之四】 [:link:](//www.bilibili.com/video/BV12u411Z7fZ) <br>
+94. 笑死！这才是《霍元甲》原版视频！！ [:link:](//www.bilibili.com/video/BV1SP4y187uu) <br>
+95. 外公的长津湖 [:link:](//www.bilibili.com/video/BV1Yv411g7f4) <br>
+96. 这 LOL 手 游 就 离 谱 ！ ！ ！ [:link:](//www.bilibili.com/video/BV1Pv41137Z6) <br>
+97. 【赛事晚自习178】RNG的卡牌体系到底强在哪里？PSG VS RNG细节复盘 [:link:](//www.bilibili.com/video/BV1ZP4y187uU) <br>
+98. 【开箱】Switch OLED 来了！全面了解！屏幕提升有多大？｜小宁子 [:link:](//www.bilibili.com/video/BV1kv411g7DC) <br>
+99. 身高不足173的男生，到底能不能把风衣穿帅？ [:link:](//www.bilibili.com/video/BV1Gb4y1Y7tj) <br>
+100. 东北神兽傻狍子到底有多少？ [:link:](//www.bilibili.com/video/BV16b4y1a7aq) <br>
 </details>
